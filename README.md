@@ -1,4 +1,4 @@
-# Variation-of-Cicphers-java
+# Classical-Cicphers-java
 
 Command-line program implementing three classic ciphers, each with encrypt and decrypt:
 
